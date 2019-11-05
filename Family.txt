@@ -1,0 +1,16 @@
+3
+4
+Alexander parent_of Brendon
+Brendon sibling_of Chris
+Dave child_of Chris
+Chris sibling_of Jessica
+5
+Alex child_of George
+Brenda child_of Bridgette
+Alex parent_of Brett
+Brett parent_of Fred
+Brenda parent_of Steve
+3
+Stan child_of Chris
+Fred child_of Joe
+Joe parent_of Chris
